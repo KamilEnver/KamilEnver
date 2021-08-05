@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)]
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyintosun" alt="huseyintosun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=" alt="" /> </p>
 
 ## 💻 Frontend
 
