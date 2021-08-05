@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about whatever you want.
 
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyintosun/)
-[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/15324520/h%c3%bcseyin-tosun)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:huseyin.tosun.8818@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@huseyintosun)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
+[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)]
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)]
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyintosun" alt="huseyintosun" /> </p>
 
